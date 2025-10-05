@@ -1,0 +1,11 @@
+/* 颜色变量 */
+:root {
+  --red: #ff2442;
+  --orange: #ff9500;
+  --text-primary: #333;
+  --text-secondary: #666;
+  --text-light: #999;
+  --bg-color: #f8f9fa;
+  --white: #ffffff;
+  --border: #e8e8e8;
+}
